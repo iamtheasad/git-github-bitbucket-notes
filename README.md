@@ -12,7 +12,7 @@
   **For Bold Text**
 ```
 
-## Github
+## Github Shortcuts
 
 ### Opening Shortcut Settings
 
