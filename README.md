@@ -12,8 +12,20 @@
   **For Bold Text**
 ```
 
-## Github Shortcuts
+## Github
 
-### Opening Shortcut Settings
+### Shortcuts
 
-`Shift + ?`
+<h4>Keyboard Shortcut For Github Repository</h4>
+
+```
+Shift + ?
+```
+
+### Tricks
+
+<h4>Go to specific line of code</h4>
+
+- Go to code file on github repository
+- Click on top of line number and you'll get new parmalink
+- You can select multiple line `Shift + click`
