@@ -19,6 +19,7 @@
 <h4>Keyboard Shortcut For Github Repository</h4>
 
 ```
+
 Shift + ?
 ```
 
@@ -30,4 +31,4 @@ Shift + ?
 - Click on top of line number and you'll get new parmalink
 - You can select multiple line `Shift + click`
 
-![Screenshot_1](https://user-images.githubusercontent.com/45126545/201903035-7f337cdb-6711-4356-a66c-352b1cb14c7b.png)
+![github](https://user-images.githubusercontent.com/45126545/201905024-b7f96e32-5907-49d5-8cdd-a76ee6c08c29.png)
